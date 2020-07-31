@@ -4,7 +4,7 @@ ___
 
 
 
-
+s
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -27,10 +27,6 @@ Projeto portífolio desenvolvido nos modulos 2 e 3 do LauchBase da Rocketseat na
 
 O motivo de ser feito é para colocar em prática os conhecimentos obtidos das tecnologias mais atuais.  
 
-## :seedling: Requisitos Mínimos
-
-- NodeJs
-
 ## :rocket: Tecnologias Utilizadas 
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
@@ -39,6 +35,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - CSS
 - JavaScript
 - NodeJs
+
+## :busts_in_silhouette: Minhas redes Sociais
+
+<a href="https://www.linkedin.com/in/tiagogoncalves200428/ target='_blank'">- Linkedin</a>
+
+<a href="https://www.instagram.com/tg001_xx/ target='_blank'">- Intagram</a>
 
 ## :link: Como contribuir 
 
